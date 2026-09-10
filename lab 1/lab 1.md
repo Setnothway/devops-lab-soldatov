@@ -1,5 +1,4 @@
 University: ITMO University
-
 Faculty: FTMI
 Course: Введение в веб технологии
 Year: 2026/2027
